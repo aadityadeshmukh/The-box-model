@@ -3,4 +3,5 @@ div{
   border:20px solid black;
   padding:50px;
   margin:100px;
+  outline:25px solid green;
 }
