@@ -9,5 +9,6 @@ div{
   //direction:rtl;
   //unicode-bidi: bidi-override;
   vertical-align: bottom;
-  text-decoration:line-through;
+  //text-decoration:line-through;
+  text-transform:uppercase;
 }
