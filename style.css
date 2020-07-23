@@ -5,4 +5,7 @@ body{
 div{
   background-color:lightgray;
   color:blue;
+  text-align:right;
+  direction:rtl;
+  unicode-bidi: bidi-override;
 }
