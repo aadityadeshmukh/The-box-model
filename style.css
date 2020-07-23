@@ -6,7 +6,8 @@ div{
   background-color:lightgray;
   color:blue;
   text-align:right;
-  direction:rtl;
-  unicode-bidi: bidi-override;
+  //direction:rtl;
+  //unicode-bidi: bidi-override;
   vertical-align: bottom;
+  text-decoration:line-through;
 }
