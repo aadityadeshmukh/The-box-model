@@ -5,10 +5,15 @@ body{
 div{
   background-color:lightgray;
   color:blue;
-  text-align:right;
+  text-align:left;
   //direction:rtl;
   //unicode-bidi: bidi-override;
   vertical-align: bottom;
   //text-decoration:line-through;
-  text-transform:uppercase;
+  text-transform:lowercase;
+  text-indent:50px;
+  letter-spacing:2px;
+  line-height:1.2;
+  word-spacing:20px;
+  white-space: nowrap;
 }
