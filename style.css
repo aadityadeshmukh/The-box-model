@@ -15,5 +15,5 @@ div{
   letter-spacing:2px;
   line-height:1.2;
   word-spacing:20px;
-  white-space: nowrap;
+  //white-space: nowrap;
 }
