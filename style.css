@@ -8,4 +8,5 @@ div{
   text-align:right;
   direction:rtl;
   unicode-bidi: bidi-override;
+  vertical-align: bottom;
 }
