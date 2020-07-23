@@ -1,8 +1,8 @@
+body{
+  background-color:black;
+  color:pink;
+}
 div{
-  background-color:lightblue;
-  border:20px solid black;
-  padding:50px;
-  margin:100px;
-  outline:25px solid green;
-  outline-offset: 30px;
+  background-color:lightgray;
+  color:blue;
 }
